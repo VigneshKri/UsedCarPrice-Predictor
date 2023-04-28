@@ -1,0 +1,36 @@
+*
+{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+.bg_transparent
+{
+background-image:url('https://stimg.cardekho.com/images/carexteriorimages/930x620/Lamborghini/Urus/4418/Lamborghini-Urus-V8/1621927166506/front-left-side-47.jpg');
+background-repeat:none;
+background-size: cover;
+}
+.card-body
+{
+    background-color: transparent;
+    opacity: 1;
+}
+
+.mt-50
+{
+margin-top:50px;
+opacity: 0.8;
+}
+
+#abc
+{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.left_allign
+{
+    align:left;
+}
